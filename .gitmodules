@@ -3,5 +3,5 @@
 	url = https://github.com/Student-Satellite-IITB/openlst-hw
 [submodule "openlst-fw"]
 	path = openlst-fw
-	url = https://github.com/Student-Satellite-IITB/openlst/tree/iitbssp-dev
+	url = https://github.com/Student-Satellite-IITB/openlst
 	branch = iitbssp-dev
