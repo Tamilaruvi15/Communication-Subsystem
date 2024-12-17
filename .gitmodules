@@ -5,3 +5,6 @@
 	path = /Software/openlst-fw
 	url = https://github.com/Student-Satellite-IITB/openlst
 	branch = iitbssp-dev
+[submodule "Software/openlst"]
+	path = Software/openlst
+	url = https://github.com/Student-Satellite-IITB/openlst.git
