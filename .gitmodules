@@ -1,7 +1,7 @@
 [submodule "openlst-hw"]
-	path = openlst-hw
+	path = "COMM Board"/openlst-hw
 	url = https://github.com/Student-Satellite-IITB/openlst-hw
 [submodule "openlst-fw"]
-	path = openlst-fw
+	path = Software/openlst-fw
 	url = https://github.com/Student-Satellite-IITB/openlst
 	branch = iitbssp-dev
